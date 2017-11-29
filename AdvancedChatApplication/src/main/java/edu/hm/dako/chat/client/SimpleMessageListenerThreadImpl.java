@@ -9,7 +9,7 @@ import edu.hm.dako.chat.common.ExceptionHandler;
 import edu.hm.dako.chat.connection.Connection;
 
 /**
- * Thread wartet auf ankommende Nachrichten vom Server und bearbeitet diese.
+ * Thread  wartet auf ankommende Nachrichten vom Server und bearbeitet diese.
  * 
  * @author Peter Mandl
  *
